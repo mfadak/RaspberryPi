@@ -16,3 +16,4 @@
 <li>2 resistors</li>
   </ul>
   
+<img src="https://github.com/mfadak/RaspberryPi/blob/main/MembraneKeypad/src/devre-1-300x290-1.png?raw=true" alt="" />
