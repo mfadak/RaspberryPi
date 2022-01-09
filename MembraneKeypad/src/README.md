@@ -17,3 +17,5 @@
   </ul>
   
 <img src="https://github.com/mfadak/RaspberryPi/blob/main/MembraneKeypad/src/devre-1-300x290-1.png?raw=true" alt="" />
+
+<img src="https://pimylifeup.com/wp-content/uploads/2016/09/Raspberry-Pi-LCD-16x2-Circuit-Diagram-v1.png" alt="" />
