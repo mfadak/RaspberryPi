@@ -1,2 +1,2 @@
 # Raspberry Pi
-Beginner projects written for Raspberry Pi.
+Raspberry Pi projects for beginners.
